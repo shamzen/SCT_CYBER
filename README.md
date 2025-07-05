@@ -1,4 +1,4 @@
-# SCT_CYB_1 – Caesar Cipher Encryptor/Decryptor
+# SCT_CYBER – Caesar Cipher Encryptor/Decryptor
 
 👋 **Hello, World!**  
 This repository contains my **Task 01** for the Cyber Security Internship at **SkillCraft Technology**.
